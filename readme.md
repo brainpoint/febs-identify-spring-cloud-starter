@@ -18,7 +18,7 @@ maven config.
 <dependency>
     <groupId>cn.brainpoint</groupId>
     <artifactId>febs-identify-spring-cloud-starter</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 
