@@ -4,7 +4,7 @@
 
     <groupId>cn.brainpoint</groupId>
     <artifactId>febs-identify-spring-cloud-starter</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <packaging>jar</packaging>
 
     <name>febs-identify-spring-cloud-starter</name>
@@ -46,7 +46,7 @@
         <spring.cloud-bus.version>2.2.0.RELEASE</spring.cloud-bus.version>
         <lombok.version>1.18.12</lombok.version>
         <slf4j.version>1.7.30</slf4j.version>
-        <febs.identify.version>0.0.3</febs.identify.version>
+        <febs.identify.version>0.0.4</febs.identify.version>
     </properties>
 
     <profiles>
